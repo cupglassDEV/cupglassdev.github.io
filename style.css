@@ -3,6 +3,8 @@
     --btnnavclr: rgb(107, 107, 107);
     --aksen1: #650bae;
     --aksen2: #a50dad;
+}
+@font-face {
     font-family: "montserrat";
     src: url("./assets/fonts/Montserrat/Montserrat-VariableFont_wght.ttf");
 }
@@ -214,3 +216,4 @@ a {
     animation: animasiheadaja 27s ease infinite;
     font-family: "spacegrotesk";
 }
+
